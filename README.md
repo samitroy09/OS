@@ -1,2 +1,2 @@
 # OS
-Operating System
+Operating System by Lalan Sir
